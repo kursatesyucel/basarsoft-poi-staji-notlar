@@ -98,7 +98,7 @@ Bu noktada, eğer ihtiyaç duyan olursa elimden geldiğince yardımcı olmaktan 
     
 - React'ın çalışma mantığı
     
-- React’ta neden belirli yöntemler (deflate, byte işlemleri gibi) kullanılıyor
+- React’ta neden belirli yöntemler (useeffect, hook işlemleri gibi) kullanılıyor
     
 
 gibi başlıklar vardı ve sonunda o arkadaşımız için oldukça verimli geçtiğini düşünüyorum.
@@ -158,4 +158,6 @@ Bu şekilde hem öğrendiğiniz konuları pekiştirirsiniz hem de kendi projeniz
 Her zaman olduğu gibi takıldığınız noktada bana veya Semih’e ulaşmaktan çekinmeyin.  
 Hepimize kolay gelsin!
 
-Github: https://github.com/kursatesyucel/BasarMapApp/tree/7699c61ccb19bc4b699571e6c6901983b6df5e47
+Proje Github: https://github.com/kursatesyucel/BasarMapApp/tree/7699c61ccb19bc4b699571e6c6901983b6df5e47
+
+Ders Notları Github: https://github.com/kursatesyucel/basarsoft-poi-staji-notlar
